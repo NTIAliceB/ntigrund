@@ -1,1 +1,6 @@
-/* Denna fil skall innehålla din CSS kod */
+h1{
+    display: block;
+    width: 200px;
+    height: 500px;
+    background-color: gray;
+}
