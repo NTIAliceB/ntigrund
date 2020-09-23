@@ -1,6 +1,8 @@
 h1{
-    display: block;
-    width: 200px;
-    height: 3000px;
-    background-color: gray;
+    background-color: indianred;
+    border: solid 4px green;
+}
+#Blockis {
+    background-color: khaki;
+    width: 50%;
 }
