@@ -1,0 +1,23 @@
+#container {
+    display:grid;
+    height: 100vh;
+    grid-template-areas:
+    'hd hd hd hd'
+    'ma ma ma li'
+
+}
+
+header {
+grid-area: hd;
+background-color: khaki;
+}
+
+main {
+    grid-area: ma;
+    background-color: lightblue;
+}
+
+li {
+    grid-area: li;
+    background-color: lightcoral;
+}
